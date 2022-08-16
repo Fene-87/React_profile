@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.profile-card{
+  height: 500px;
+  width: 400px;
+  background-color: blue;
+  
+}
+
+.image-profile{
+  height: 180px;
+  width: 180px;
+}
+
+.new-profile{
+  height: 420px;
+  width: 300px;
+  background-color: aqua;
+}
